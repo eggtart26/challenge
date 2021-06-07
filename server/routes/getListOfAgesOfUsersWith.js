@@ -1,5 +1,5 @@
 'use strict';
-const mockDBCalls = require('../database/index.js');
+const mockDBCalls = require('../../database/index.js');
 
 const getListOfAgesOfUsersWithHandler = async (request, response) => {
     const itemToLookup = 'carrot';
