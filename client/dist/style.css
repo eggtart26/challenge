@@ -1,0 +1,23 @@
+.usersContainer {
+    display: flex;
+    width: 110%;
+    justify-content: space-between;
+  }
+  
+  .mainContainer {
+    /* display: 'flex';
+      align-items: center;
+      justify-content: 'center'; */
+  }
+  
+  .userContainer {
+    /* padding-left: 20%;
+      padding-right: 20%; */
+    padding: 1% 20% 1% 20%;
+  }
+  
+  .userListContainer {
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+  
